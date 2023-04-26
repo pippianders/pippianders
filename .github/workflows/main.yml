@@ -1,5 +1,5 @@
 name: 🖕 Pippis Action
-run-name: ${{ github.actor }} ¯\_(⊙_ʖ⊙)_/¯  💣
+run-name: ${{ github.pippi }} 
 on: [push]
 jobs:
   Explore-GitHub-Actions:
