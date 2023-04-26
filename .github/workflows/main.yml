@@ -1,6 +1,6 @@
 name: Pippis Action
 run-name: ${{ github.actor }} ¯\_(⊙_ʖ⊙)_/¯  💣
-on: [push, fork, pull]
+on: [push, fork, publish]
 jobs:
   Explore-GitHub-Actions:
     runs-on: macos-latest
