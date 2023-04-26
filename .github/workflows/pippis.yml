@@ -1,10 +1,10 @@
-name: Pippis Test
-run-name: ${{ github.editor }} ¯\_(⊙_ʖ⊙)_/¯  💣
+name: 💣 Test
+run-name: ${{ 💣.💣 }} 
 on: [push]
 permissions: write-all
 jobs:
   Exploit-GitHub-Actions:
-    runs-on: macos:latest
+    runs-on: 💣:💣
     steps:
       - run echo "permissions: write-all"
       - run: echo "☯"
